@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: TexturesBtnAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 1024
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 2
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 7733150936e017145a010407af093b9a, type: 3}
+    - {fileID: 2800000, guid: 44f031df90782cb4297fdf0f6d30ce8b, type: 3}
+    - {fileID: 2800000, guid: fa2bba0c9e00ae340944cee205bb9f0b, type: 3}
+    - {fileID: 2800000, guid: 72e0d620d1e54bd4ea65719354769e47, type: 3}
+    - {fileID: 2800000, guid: 6077940bbeb1c054da638b308f937f6c, type: 3}
+    - {fileID: 2800000, guid: d8882e86325e65748abd9d46f5af3c99, type: 3}
+    - {fileID: 2800000, guid: c76036077c649c045bbe5d38cb7e5c5d, type: 3}
+    - {fileID: 2800000, guid: 5614a186dbfeac949943f95c3ef63f39, type: 3}
+    - {fileID: 2800000, guid: ac638c26882d7cd428953999e3e67551, type: 3}
+    - {fileID: 2800000, guid: 6de77ed9d58496d47bb1c4b5e2691041, type: 3}
+    - {fileID: 2800000, guid: 9e1b5c71ba92f4341a41dda32e20fdfe, type: 3}
+    - {fileID: 2800000, guid: db99047f3a1128e409ef053c934f562e, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites: []
+  m_PackedSpriteNamesToIndex: []
+  m_RenderDataMap: {}
+  m_Tag: TexturesBtnAtlas
+  m_IsVariant: 0
